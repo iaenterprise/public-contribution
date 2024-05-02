@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "inventory-manager";
+$dbname = "yyour-database-name";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
